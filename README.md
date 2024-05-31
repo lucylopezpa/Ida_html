@@ -1,4 +1,4 @@
-ara este taller deben subir un enlace con un sitio web simple alojado en GitHub Pages.
+Para este taller deben subir un enlace con un sitio web simple alojado en GitHub Pages.
 
 Como mínimo, el sitio debe tener lo siguiente: 
 
